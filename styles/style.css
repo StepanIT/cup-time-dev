@@ -72,10 +72,6 @@ img {
     font-size: 0;
 }
 
-.header__nav {
-
-}
-
 .header__menu {
     display: flex;
     align-items: center;
@@ -190,65 +186,38 @@ img {
 }
 
 .footer__logo-link {
-
-}
-
-.footer__logo {
-
+    font-size: 0;
 }
 
 .footer__nav {
-
+    font-size: 0;
 }
 
 .footer__menu {
-
-}
-
-.footer__menu-item {
-
-}
-
-.footer__menu-link {
-
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-size: 20px;
 }
 
 .footer__info {
-
+    font-size: 0;
 }
 
 .footer__copyright {
-
+    font-size: 16px;
 }
 
 .footer__developers {
-
-}
-
-.footer__developer {
-
-}
-
-.footer__developer-link {
-
-}
-
-.footer__contacts {
-
-}
-
-.footer__email {
-
+    font-size: 16px;
 }
 
 .footer__social {
-
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
 
 .footer__social__item {
-
-}
-
-.footer__social-link {
-
+    padding-top: 16px;
 }
